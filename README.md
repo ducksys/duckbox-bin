@@ -1,1 +1,1 @@
-# ddc-launcher-bin
+# dgc-launcher-bin
